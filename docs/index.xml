@@ -2,37 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Viviane&#39;s Portfolio for PCL2</title>
-    <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/</link>
+    <link>http://viviane-walker-uzh.github.io/portfolio-website/</link>
     <description>Recent content in About on Viviane&#39;s Portfolio for PCL2</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="http://viviane-walker-uzh.github.io/portfolio-website-pcl2/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language><atom:link href="http://viviane-walker-uzh.github.io/portfolio-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/about/</link>
+      <link>http://viviane-walker-uzh.github.io/portfolio-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/about/</guid>
-      <description>About This Website This is a Hugo based resume template. You can find the full source code on GitHub.
-About Me Hi there, my name is Viviane Walker. I am a student at the University of Zurich. Currently I am enrolled in my Bachelor Studies of Social Sciences with a Minor in Computational Lingustics and Language Technology - as mentioned above.
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque.</description>
+      <guid>http://viviane-walker-uzh.github.io/portfolio-website/about/</guid>
+      <description>About This Website This is a website motivated to get bonus points1 in a course at the University of Zurich. The course is called Programming Techniques in Computational Lingustics 2 and the task was to build a portfolio website with GitHub Pages and have a link to a coding project.
+Disclaimer: This hugo theme is based on the resume template &amp;ldquo;Research&amp;rdquo; by Oliver Roques. Thank you very much. -&amp;gt; Visit GitHub to find the full source code.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/contact/</link>
+      <link>http://viviane-walker-uzh.github.io/portfolio-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/contact/</guid>
+      <guid>http://viviane-walker-uzh.github.io/portfolio-website/contact/</guid>
       <description>Email: viviane.walker@uzh.ch</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/projects/</link>
+      <link>http://viviane-walker-uzh.github.io/portfolio-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/projects/</guid>
-      <description></description>
+      <guid>http://viviane-walker-uzh.github.io/portfolio-website/projects/</guid>
+      <description>Links to Projects As mentioned in the starting page, I have linked a few programming project below to explore my range of skills. Please note, that I am still in my studies, thus I my programming skills are in training, so to say :&amp;lsquo;p. Project 1: PCL2 All Exercises Project 2: PCL2 final exam Project 3: PCL1 final Exercise: spaCy</description>
     </item>
     
   </channel>
