@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language><atom:link href="http://viviane-walker-uzh.github.io/portfolio-website-pcl2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,6 +24,15 @@ Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet
       
       <guid>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/contact/</guid>
       <description>Email: viviane.walker@uzh.ch</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viviane-walker-uzh.github.io/portfolio-website-pcl2/projects/</guid>
+      <description></description>
     </item>
     
   </channel>
