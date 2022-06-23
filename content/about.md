@@ -4,56 +4,40 @@ title = "About"
 
 ## About This Website
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+This is a website motivated to get bonus points[^1] in a course at the [University of Zurich](https://www.uzh.ch/en.html). The course is called [Programming Techniques in Computational Lingustics 2](https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2021/004/SM/50941577) and the task was to build a portfolio website with GitHub Pages and have a link to a coding project.
 
+
+*Disclaimer*: This hugo theme is based on the resume template ["Research"](https://themes.gohugo.io/themes/hugo-researcher/) **by Oliver Roques**. Thank you very much. -> Visit [ GitHub](https://github.com/ojroques/hugo-researcher) to find the full source code.
 ## About Me
 
 {{< figure class="avatar" src="female.jpg" alt="female">}}
 
-Hi there, my name is Viviane Walker. I am a student at the University of Zurich. Currently I am enrolled in my Bachelor Studies of Social Sciences with a Minor in Computational Lingustics and Language Technology - as mentioned above.
+Hi there, my name is Viviane Walker. I am a student at the University of Zurich. Currently I am enrolled in my Bachelor Studies of Social Sciences with a Minor in Computational Lingustics and Language Technology. And this website experience, especially with Github and Hugo was quite pleasant and I am looking forward to modify my website even further. Also, feel free to [send me some feedback](mailto:viviane.walker@uzh.ch).
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Coding Projects
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+[Click here](http://viviane-walker-uzh.github.io/portfolio-website/projects/) to discover my previous coding projects.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table:
+## How I got from the template to this
+1. ...
+2. ...
+3. ...
+4. ...
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## This could be another section
 
-Here is a horizontal rule:
+This could be the description or the text for an additional section on this portfolio website. For example, I could link my CV or some other document. Or I could insert some python3 code snippets like this:
 
----
 
-Here is a blockquote:
 
-> To a great mind, nothing is little
 
-Here is a `code` block:
 
-```python
-def is_elementary():
-  return True
-```
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
 
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+
+[^1]: for 0.25 bonus points: you built a simple portfolio. That is, simple landing page and a projects section/tab with a link to a coding project. // for 0.50 bonus points: your portfolio consists of at least a landing page and a projects section/tab with a link to a coding project. Plus, there is an obvious extra effort on building a nice portfolio.
+
