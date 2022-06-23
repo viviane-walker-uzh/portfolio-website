@@ -2,24 +2,23 @@
 title = "About"
 +++
 
-## About Me
+## About This Website
 
-{{< figure class="avatar" src="female.jpg" alt="female">}}
 
 This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
 
-## Research Interest
+## About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+{{< figure class="avatar" src="female.jpg" alt="female">}}
+
+Hi there, my name is Viviane Walker. I am a student at the University of Zurich. Currently I am enrolled in my Bachelor Studies of Social Sciences with a Minor in Computational Lingustics and Language Technology - as mentioned above.
 
 Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
 laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
 ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+## Coding Projects
 
 In chronological order:
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
