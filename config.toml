@@ -1,4 +1,4 @@
-baseURL = 'http://viviane-walker-uzh.github.io/portfolio-website-pcl2'
+baseURL = 'http://viviane-walker-uzh.github.io/portfolio-website/'
 languageCode = 'en-uk'
 title = "Viviane's Portfolio for PCL2"
 theme = "researcher_portfolio"
