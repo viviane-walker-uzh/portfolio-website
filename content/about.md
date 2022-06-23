@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="female.jpg" alt="female">}}
 
 This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
