@@ -15,25 +15,23 @@ This is a website motivated to get bonus points[^1] in a course at the [Universi
 Hi there, my name is Viviane Walker. I am a student at the University of Zurich. Currently I am enrolled in my Bachelor Studies of Social Sciences with a Minor in Computational Lingustics and Language Technology. And this website experience, especially with Github and Hugo was quite pleasant and I am looking forward to modify my website even further. Also, feel free to [send me some feedback](mailto:viviane.walker@uzh.ch).
 
 
-## Coding Projects
+# Coding Projects
 
-
-[Click here](http://viviane-walker-uzh.github.io/portfolio-website/projects/) to discover my previous coding projects.
+[Click here](http://viviane-walker-uzh.github.io/portfolio-website/projects/) or click on the Projects tab in the header above to discover my previous coding projects.
 
 
 ## How I got from the template to this
-1. ...
-2. ...
-3. ...
-4. ...
-
-## This could be another section
-
-This could be the description or the text for an additional section on this portfolio website. For example, I could link my CV or some other document. Or I could insert some python3 code snippets like this:
-
-
+1. first things first, download the template from the [Hugo Template Website](https://gohugo.io/templates/) after that set up git, connect to GitHub.
+2. get all necessary files into the upmost directory stage from the exampleSite folder. Change all necessary infos in the config.toml file (very essential file).
+3. modify, add and delete content for desired output
+4. Also, for fun I added a new Avatar AND I created a favicon.ico, but I am still struggling to insert it into the github Pages. I did work though on localhost..
+5. of course, do not forget the command *hugo* in the terminal before adding, committing and pushing all made changes.
+6. upload [Coding Projects](https://viviane-walker-uzh.github.io/portfolio-website/projects/) or this into a new added repository. For this I added two examples. [One from this semester](https://github.com/viviane-walker-uzh/Coding-Projects-PCL2-Exercises) and one example from [last semester](https://github.com/viviane-walker-uzh/Coding-Projects-PCL1-spaCy).
+7. Finally, link Coding Projects in the *Projects* tab, and commit and push final changes.
+8. hand-in link to lecturer and crossed fingers for a bonus :)) thanks for reading <3
 
 
+---
 
 
 
