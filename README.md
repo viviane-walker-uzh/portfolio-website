@@ -1,1 +1,1 @@
-# Wrong branch, please switch to the **master** branch where my portfolio website is located - this is the (empty) *main* branch.
+# Wrong branch, please switch to the [**master** branch](https://github.com/viviane-walker-uzh/portfolio-website/tree/master) where my portfolio website is located - this is the (empty) *main* branch.
